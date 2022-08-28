@@ -17,7 +17,7 @@ Parameters needed for configuration
 ![img](https://github.com/GILLMtz/RouletteGame/blob/main/media/configurationServerApplication.png?raw=true)
 
 #### Main view
-![](mainViewServerApplication.png)
+![img](https://github.com/GILLMtz/RouletteGame/blob/main/media/mainViewServerApplication.png?raw=true)
 
 
 
