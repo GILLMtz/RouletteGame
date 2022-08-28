@@ -29,11 +29,10 @@ Parameters needed for configuration
 * Port
 
 
-
-![](configurationClientApplication.png)
+![img](https://github.com/GILLMtz/RouletteGame/blob/main/media/configurationClientApplication.png?raw=true)
 
 #### Main View
-![](mainViewClientApplication.png)
+![img](https://github.com/GILLMtz/RouletteGame/blob/main/media/mainViewClientApplication.png?raw=true)
 
 #### Player control to spin the roulette
 To spin the spinner, the lever must be moved. This is activated by the following actions:
@@ -47,7 +46,7 @@ To spin the spinner, the lever must be moved. This is activated by the following
     pressing the keydown key, this will cause the force to increase and once the desired level of force with which the roulette will turn is reached, only the pressed key should be released.
 
 
-![](controller1ClientApplication.png)
+![img](https://github.com/GILLMtz/RouletteGame/blob/main/media/controller1ClientApplication.png?raw=true)
 
 #### Activating control for roulette spin
-![](controller2ClientApplication.png)
+![img](https://github.com/GILLMtz/RouletteGame/blob/main/media/controller2ClientApplication.png?raw=true)
